@@ -1,0 +1,2 @@
+ForestGeo census data can be stored here.
+The data must be in the usual forestgeo format. Loading and preparation of census data happens in the file function/load_census_data.R
